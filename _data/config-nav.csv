@@ -7,3 +7,7 @@ Map,/map.html
 Timeline,/timeline.html
 Data,/data.html
 About,/about.html
+
+display_test, stub, dropdown_parent
+Browse,/
+Transcriptions,Transcriptions.html
