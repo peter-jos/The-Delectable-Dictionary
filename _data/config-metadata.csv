@@ -8,6 +8,8 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 source,Source
+language,Language
+time to make,Time to Make
 identifier,Source Identifier,,
 type,Type,
 format,Format,
