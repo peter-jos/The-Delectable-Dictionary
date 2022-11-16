@@ -16,7 +16,7 @@ The Delectable Dictionary is a digitized collection of a number of desserts from
 
 The Delectable Dictionary for now has a specific focus on foreign desserts in order to introduce those dishes to more individuals seeking to try new things. There is certainly no reason we would not include more familiar recipes in the future.
 
-## The countries you have chosen are all Western and African. Why no Asian representation?
+## Why did you pick these countries in particular?
 
 The recipes chosen are based on what books were both available and functional enough for this project. While there were certainly cookbooks available from countries like Japan or Korea, processing those recipes would have been far more difficult thanks to the character-based nature of their languages. In the interest of time, I have instead chosen to use recipes that were easier to process.
 
