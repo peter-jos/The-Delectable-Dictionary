@@ -6,6 +6,5 @@ Map,/map.html
 Data,/data.html
 About,/about.html
 
-display_text,stub,dropdown_parent
-Browse,/
-Browse,/translations.html
+Browse,,
+Translations,/translations.html,Browse
