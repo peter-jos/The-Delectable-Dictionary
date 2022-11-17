@@ -1,8 +1,11 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Translations,/translations.html
 Subjects,/subjects.html
 Map,/map.html
 Data,/data.html
 About,/about.html
+
+display_text,stub,dropdown_parent
+Browse,/
+Translations,/translations.html
