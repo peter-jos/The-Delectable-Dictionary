@@ -81,8 +81,8 @@ bootswatch: slate
 
 # THEME FONTS
 base-font-size: 1.2em
-text-color: "#FFFFFF"
-link-color: "#FFFFFF"
+text-color: "#D3D3D3"
+link-color: "#D3D3D3"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto
 font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
