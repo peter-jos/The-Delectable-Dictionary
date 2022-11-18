@@ -12,4 +12,4 @@ Making these recipes is often an exercise in deciphering what the author had mea
 
 Making these recipes can be a bit of a challenge, but can also be fun! The recipes here are tagged with "1748" in our timeline, but here's one example:
 
-{% include feature/image.html objectid="germany_1" %}
+{% include feature/image.html objectid="german_1" %}
