@@ -10,6 +10,8 @@ Some of the items in the Delectable Dictionary are quite different than many of 
 
 Making these recipes is often an exercise in deciphering what the author had meant- how much of an ingredient to actually use, how hot something should be, etc., are all assumptions that these recipes in particular assume you already know(especially since she wrote them for her personal use; of course she would already have known these things).
 
-Making these recipes can be a bit of a challenge, but can also be fun! The recipes here are tagged with "1748" in our timeline, but here's one example:
+Making these recipes can be a bit of a challenge, but can also be fun! The recipes here are tagged with "1748" in our timeline:
 
 {% include feature/image.html objectid="german_1" %}
+
+There are other resources available where one can find other, even older recipes available that have been processed to a more modern standard. The Gode Cookery database is one such example: http://www.godecookery.com/allrec/allrec.htm 
