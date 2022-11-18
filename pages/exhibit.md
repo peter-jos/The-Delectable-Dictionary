@@ -12,6 +12,6 @@ Making these recipes is often an exercise in deciphering what the author had mea
 
 Making these recipes can be a bit of a challenge, but can also be fun! The recipes here are tagged with "1748" in our timeline:
 
-{% include feature/image.html objectid="german_1" %}
+{% include feature/image.html objectid="german_6" %}
 
 There are other resources available where one can find other, even older recipes available that have been processed to a more modern standard. The Gode Cookery database is one such example: http://www.godecookery.com/allrec/allrec.htm 
